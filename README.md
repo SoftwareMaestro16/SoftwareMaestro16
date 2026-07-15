@@ -2,7 +2,7 @@
 
 <img src="assets/aetra.png" width="120" alt="Aetra" />
 
-# Hi, I'm SoftwareMaestro 👋
+# Hi, I'm Daniil 👋
 
 ### 19 y.o. Blockchain & Full-Stack Developer
 
