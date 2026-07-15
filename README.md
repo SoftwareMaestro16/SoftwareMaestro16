@@ -42,7 +42,9 @@ Right now my focus is the **Aetra ecosystem**:
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,ts,js" alt="Go, TypeScript, JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts,js" height="48" alt="TypeScript, JavaScript" />
+  &nbsp;&nbsp;
+  <img src="assets/aetralis.png" height="48" alt="Aetralis" title="Aetralis" />
 </p>
 
 **Blockchain**
@@ -55,18 +57,30 @@ Right now my focus is the **Aetra ecosystem**:
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="React, Next.js, Tailwind, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="48" alt="React, Next.js, Tailwind, HTML, CSS" />
 </p>
 
-**Backend & Tooling**
+![Zustand](https://img.shields.io/badge/Zustand-State_Management-443E38?style=flat-square)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+
+**Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode" alt="Node.js, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" />
 </p>
 
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-0EA5E9?style=flat-square)
 ![SDK Development](https://img.shields.io/badge/SDK-Development-8B5CF6?style=flat-square)
+
+**Tooling**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" alt="Git, GitHub, VS Code" />
+</p>
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 ---
 
@@ -78,9 +92,11 @@ The foundation of everything — an independent Layer 1 built on **Cosmos SDK** 
 **CometBFT**. Delegated proof-of-stake, on-chain governance, a native fee token,
 and a built-in virtual machine (**AVM**) that runs smart contracts written in Aetralis.
 
-`Go` · `Cosmos SDK` · `CometBFT` · `Protocol Design`
+`Cosmos SDK` · `CometBFT` · `AVM` · `Protocol Design`
 
 [**View repository →**](https://github.com/Aetra-Network/Blockchain)
+
+<br>
 
 <table>
 <tr>
@@ -162,7 +178,7 @@ development and deployment in one workflow. *In active development.*
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [**Aetra**](https://github.com/Aetra-Network/Blockchain) | Independent Layer 1 — consensus, staking, governance, native AVM | Go · Cosmos SDK · CometBFT |
+| [**Aetra**](https://github.com/Aetra-Network/Blockchain) | Independent Layer 1 — consensus, staking, governance, native AVM | Cosmos SDK · CometBFT |
 | [**Aetralis**](https://github.com/Aetra-Network/Aetralis-Extension) | Smart-contract language compiling to the Aetra Virtual Machine | Language · Compiler · AVM |
 | [**Aetra SDK**](https://github.com/Aetra-Network/Aetra-SDK) | TypeScript SDK for accounts, transactions & contracts | TypeScript |
 | [**Aetra Kit**](https://github.com/Aetra-Network/Aetra-Kit) | viem/wagmi-style client library with React hooks | TypeScript · React |
@@ -181,17 +197,6 @@ development and deployment in one workflow. *In active development.*
 👛  Building out Dalen Wallet and the block explorer
 🤖  Pushing how far AI-assisted development can take a solo builder
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SoftwareMaestro16&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftwareMaestro16&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-
-</div>
 
 ---
 
