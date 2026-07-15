@@ -66,7 +66,7 @@ Right now my focus is the **Aetra ecosystem**:
 **Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="48" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,postgres,mongodb,prisma,redis" height="48" alt="Node.js, Express, Fastify, PostgreSQL, MongoDB, Prisma, Redis" />
 </p>
 
 ![REST API](https://img.shields.io/badge/REST-API-0EA5E9?style=flat-square)
