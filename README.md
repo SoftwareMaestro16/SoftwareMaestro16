@@ -43,8 +43,6 @@ Right now my focus is the **Aetra ecosystem**:
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js" height="48" alt="TypeScript, JavaScript" />
-  &nbsp;&nbsp;
-  <img src="assets/aetralis.png" height="48" alt="Aetralis" title="Aetralis" />
 </p>
 
 **Blockchain**
@@ -53,6 +51,16 @@ Right now my focus is the **Aetra ecosystem**:
 ![CometBFT](https://img.shields.io/badge/CometBFT-1B1F3B?style=flat-square)
 ![Aetralis](https://img.shields.io/badge/Aetralis-Smart_Contracts-7C3AED?style=flat-square)
 ![AVM](https://img.shields.io/badge/AVM-Virtual_Machine-6D28D9?style=flat-square)
+
+**Web3 · TON**
+
+![TON](https://img.shields.io/badge/TON-0098EA?style=flat-square&logo=ton&logoColor=white)
+![Tolk](https://img.shields.io/badge/Tolk-Language-0098EA?style=flat-square)
+![Blueprint](https://img.shields.io/badge/Blueprint-SDK-0098EA?style=flat-square)
+![Acton](https://img.shields.io/badge/Acton-Framework-0098EA?style=flat-square)
+![@ton/core](https://img.shields.io/badge/%40ton%2Fcore-Library-0098EA?style=flat-square)
+![TON Connect UI](https://img.shields.io/badge/TON_Connect_UI-Library-0098EA?style=flat-square)
+![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-232A31?style=flat-square)
 
 **Frontend**
 
@@ -66,7 +74,7 @@ Right now my focus is the **Aetra ecosystem**:
 **Backend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,postgres,mongodb,prisma,redis" height="48" alt="Node.js, Express, Fastify, PostgreSQL, MongoDB, Prisma, Redis" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,redis" height="48" alt="Node.js, Express, PostgreSQL, MongoDB, Prisma, Redis" />
 </p>
 
 ![REST API](https://img.shields.io/badge/REST-API-0EA5E9?style=flat-square)
