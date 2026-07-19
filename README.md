@@ -11,8 +11,8 @@ and a language for smart contracts. AI-assisted.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-SoftwareMaestro16-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/SoftwareMaestro16)
-[![Telegram](https://img.shields.io/badge/Telegram-%40SoftwareMaestro-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/SoftwareMaestro)
+[![GitHub](https://img.shields.io/badge/GitHub-SoftwareMaestro16-181717?style=for-the-badge)](https://github.com/SoftwareMaestro16)
+[![Telegram](https://img.shields.io/badge/Telegram-%40SoftwareMaestro-26A5E4?style=for-the-badge)](https://t.me/SoftwareMaestro)
 
 </div>
 
@@ -64,14 +64,14 @@ writing smart contracts that run on the AVM.
 
 **Blockchain**
 
-![Cosmos SDK](https://img.shields.io/badge/Cosmos_SDK-2E3148?logo=cosmos&logoColor=white&style=flat-square)
+![Cosmos SDK](https://img.shields.io/badge/Cosmos_SDK-2E3148?style=flat-square)
 ![CometBFT](https://img.shields.io/badge/CometBFT-1B1F3B?style=flat-square)
 ![Aetralis](https://img.shields.io/badge/Aetralis-Smart_Contracts-7C3AED?style=flat-square)
 ![AVM](https://img.shields.io/badge/AVM-Virtual_Machine-6D28D9?style=flat-square)
 
 **Web3 · TON**
 
-![TON](https://img.shields.io/badge/TON-0098EA?style=flat-square&logo=ton&logoColor=white)
+![TON](https://img.shields.io/badge/TON-0098EA?style=flat-square)
 ![Tolk](https://img.shields.io/badge/Tolk-Language-0098EA?style=flat-square)
 ![Blueprint](https://img.shields.io/badge/Blueprint-SDK-0098EA?style=flat-square)
 ![Acton](https://img.shields.io/badge/Acton-Framework-0098EA?style=flat-square)
@@ -86,7 +86,7 @@ writing smart contracts that run on the AVM.
 </p>
 
 ![Zustand](https://img.shields.io/badge/Zustand-State_Management-443E38?style=flat-square)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square)
 
 **Backend**
 
@@ -103,9 +103,9 @@ writing smart contracts that run on the AVM.
   <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" alt="Git, GitHub, VS Code" />
 </p>
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square)
 
 ---
 
