@@ -109,6 +109,20 @@ writing smart contracts that run on the AVM.
 
 ---
 
+## 📊 GitHub
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=SoftwareMaestro16&style=flat-square&color=7C3AED)
+
+<img src="https://streak-stats.demolab.com/?user=SoftwareMaestro16&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoftwareMaestro16&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity" />
+
+</div>
+
+---
+
 ## 📫 Contact
 
 - **GitHub:** [@SoftwareMaestro16](https://github.com/SoftwareMaestro16)
