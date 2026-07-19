@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=200&section=header&text=Daniil&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=19%20y.o.%20Blockchain%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Daniil — 19 y.o. Blockchain & Full-Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:8B5CF6,100:3B82F6&amp;height=200&amp;section=header&amp;text=Daniil&amp;fontSize=58&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=19%20y.o.%20Blockchain%20%26%20Full-Stack%20Developer&amp;descSize=18&amp;descAlignY=58&amp;animation=fadeIn" width="100%" alt="Daniil — 19 y.o. Blockchain &amp; Full-Stack Developer" />
 
 <div align="center">
 
