@@ -123,3 +123,5 @@ writing smart contracts that run on the AVM.
 
 - **GitHub:** [@SoftwareMaestro16](https://github.com/SoftwareMaestro16)
 - **Telegram:** [@SoftwareMaestro](https://t.me/SoftwareMaestro)
+
+<img src="assets/footer.svg" width="100%" alt="Building Aetra — from protocol to developer experience" />
