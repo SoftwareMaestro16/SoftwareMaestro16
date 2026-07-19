@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/aetra.png" width="120" alt="Aetra" />
+<!-- <img src="assets/aetra.png" width="120" alt="Aetra" /> -->
 
 # Hi, I'm Daniil 👋
 
