@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Daniil - 19 y.o. Blockchain and Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A78BFA">
+        <animate attributeName="stop-color" values="#A78BFA;#8B5CF6;#6366F1;#A78BFA" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#8B5CF6">
+        <animate attributeName="stop-color" values="#8B5CF6;#6366F1;#3B82F6;#8B5CF6" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#3B82F6">
+        <animate attributeName="stop-color" values="#3B82F6;#A78BFA;#8B5CF6;#3B82F6" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <clipPath id="round">
+      <rect width="1200" height="200" rx="16" ry="16"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="200" fill="url(#bg)"/>
+
+    <path fill="#ffffff" fill-opacity="0.10"
+          d="M0,150 C200,110 340,190 560,150 C780,110 940,180 1200,140 L1200,200 L0,200 Z">
+      <animate attributeName="d" dur="14s" repeatCount="indefinite"
+               values="M0,150 C200,110 340,190 560,150 C780,110 940,180 1200,140 L1200,200 L0,200 Z;
+                       M0,140 C220,180 360,120 580,160 C800,190 960,120 1200,155 L1200,200 L0,200 Z;
+                       M0,150 C200,110 340,190 560,150 C780,110 940,180 1200,140 L1200,200 L0,200 Z"/>
+    </path>
+
+    <path fill="#ffffff" fill-opacity="0.07"
+          d="M0,168 C240,140 420,196 640,168 C860,140 1000,192 1200,164 L1200,200 L0,200 Z">
+      <animate attributeName="d" dur="18s" repeatCount="indefinite"
+               values="M0,168 C240,140 420,196 640,168 C860,140 1000,192 1200,164 L1200,200 L0,200 Z;
+                       M0,160 C220,192 400,148 620,176 C840,196 1020,146 1200,172 L1200,200 L0,200 Z;
+                       M0,168 C240,140 420,196 640,168 C860,140 1000,192 1200,164 L1200,200 L0,200 Z"/>
+    </path>
+
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.2s" fill="freeze"/>
+      <text x="600" y="98" text-anchor="middle"
+            font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif"
+            font-size="58" font-weight="700" fill="#ffffff">Daniil</text>
+      <text x="600" y="134" text-anchor="middle"
+            font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif"
+            font-size="18" font-weight="400" fill="#ffffff" fill-opacity="0.92">19 y.o. Blockchain &amp; Full-Stack Developer</text>
+    </g>
+  </g>
+</svg>
