@@ -6,8 +6,8 @@
 
 ### 19 y.o. Blockchain & Full-Stack Developer
 
-Building **Aetra** — an independent Layer 1 blockchain — and its entire developer
-ecosystem: language, wallet, SDKs and tooling. **AI-assisted, end to end.**
+Building **Aetra** — a Proof-of-Stake blockchain with its own virtual machine
+and a language for smart contracts. AI-assisted.
 
 <br>
 
@@ -20,20 +20,37 @@ ecosystem: language, wallet, SDKs and tooling. **AI-assisted, end to end.**
 
 ## 🧑‍💻 About Me
 
-I'm a **19-year-old blockchain & full-stack developer**. I build complete products —
-from the consensus layer and virtual machine up through SDKs, wallets and web interfaces.
+I'm 19. I build things end to end — web apps, smart contracts, and my own blockchain.
+Most of my work is **AI-assisted**: I use AI as a co-developer.
 
-My work is **AI-assisted from top to bottom**: I use AI as a co-developer to design,
-implement and harden an entire Layer 1 ecosystem — proving how far one developer can go
-when paired with the right tools.
+---
 
-Right now my focus is the **Aetra ecosystem**:
+## ⛓️ What I'm Building
 
-- ⛓️ **Aetra** — an independent Layer 1 blockchain (Cosmos SDK + CometBFT)
-- 📜 **Aetralis** — a language for writing smart contracts on Aetra
-- 🧰 **SDKs, client libraries & a wallet-connection protocol**
-- 👛 **Dalen** — a non-custodial wallet, plus a block explorer
-- 🧪 **Frameworks & CLI tooling** to make building on Aetra simple
+<table>
+<tr>
+<td width="88" align="center" valign="middle">
+<img src="assets/aetra.png" width="60" alt="Aetra" />
+</td>
+<td valign="middle">
+
+**[Aetra](https://github.com/Aetra-Network/Blockchain)** — a Proof-of-Stake blockchain
+with its own virtual machine, the **AVM**.
+
+</td>
+</tr>
+<tr>
+<td width="88" align="center" valign="middle">
+<img src="assets/aetralis.png" width="60" alt="Aetralis" />
+</td>
+<td valign="middle">
+
+**[Aetralis](https://github.com/Aetra-Network/Aetralis-Extension)** — a language for
+writing smart contracts that run on the AVM.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -92,134 +109,7 @@ Right now my focus is the **Aetra ecosystem**:
 
 ---
 
-## 🌐 The Aetra Ecosystem
-
-### ⛓️ Aetra — Layer 1 Blockchain
-
-The foundation of everything — an independent Layer 1 built on **Cosmos SDK** and
-**CometBFT**. Delegated proof-of-stake, on-chain governance, a native fee token,
-and a built-in virtual machine (**AVM**) that runs smart contracts written in Aetralis.
-
-`Cosmos SDK` · `CometBFT` · `AVM` · `Protocol Design`
-
-[**View repository →**](https://github.com/Aetra-Network/Blockchain)
-
-<br>
-
-<table>
-<tr>
-<td width="96" align="center" valign="middle">
-<img src="assets/aetralis.png" width="64" alt="Aetralis" />
-</td>
-<td valign="middle">
-
-<h3>📜 Aetralis — Smart Contract Language</h3>
-
-**Aetralis** is the language for writing smart contracts and on-chain applications on
-Aetra. It compiles to **AVM** bytecode and ships with editor tooling (syntax highlighting,
-a VS Code extension) for a clean, structured developer experience.
-
-`Language Design` · `Compiler` · `AVM` · `Developer Tooling`
-
-[**View repository →**](https://github.com/Aetra-Network/Aetralis-Extension)
-
-</td>
-</tr>
-</table>
-
-### 🧰 Aetra SDK
-
-The TypeScript SDK for talking to the Aetra chain — accounts, transaction building,
-queries and smart-contract calls. Written class-first (OOP) so it scales.
-
-`@aetra-network/sdk` · `TypeScript`
-
-[**View repository →**](https://github.com/Aetra-Network/Aetra-SDK)
-
-### ⚡ Aetra Kit
-
-A `viem`/`wagmi`-style client library for Aetra: public & wallet clients, unified
-intents (sign with a local key **or** a connected wallet), contract deploys with
-address prediction, and React hooks.
-
-`@aetra-network/kit` · `TypeScript` · `React`
-
-[**View repository →**](https://github.com/Aetra-Network/Aetra-Kit)
-
-### 🔌 Aetra Connect
-
-A wallet ⇄ dApp connection protocol (in the spirit of TON Connect): manifest, QR
-pairing, connection proofs and transaction requests — with first-class React bindings.
-
-`@aetra-network/connect` · `@aetra-network/connect-react`
-
-[**Connect →**](https://github.com/Aetra-Network/Aetra-Wallet-Connect) · [**Connect React →**](https://github.com/Aetra-Network/Aetra-Wallet-Connect-React)
-
-### 👛 Dalen Wallet
-
-A non-custodial wallet for the Aetra ecosystem — encrypted vault, real Cosmos
-transaction signing, staking and a clean interface for interacting with dApps.
-
-`dalen-wallet` · `Next.js` · `React` · `TypeScript`
-
-[**View repository →**](https://github.com/Aetra-Network/Dalen-Wallet)
-
-### 🔎 Explorer
-
-A block explorer for Aetra: an indexer plus a read API and UI to browse blocks,
-transactions, accounts and deployed contracts.
-
-`aetra-explorer` · `Next.js` · `React` · `TypeScript`
-
-[**View repository →**](https://github.com/Aetra-Network/Explorer)
-
-### 🧪 Tarsen
-
-A framework and CLI for building applications on Aetra — scaffolding, contract
-development and deployment in one workflow. *In active development.*
-
-`Framework` · `CLI` · `TypeScript`
-
----
-
-## 📦 Featured Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**Aetra**](https://github.com/Aetra-Network/Blockchain) | Independent Layer 1 — consensus, staking, governance, native AVM | Cosmos SDK · CometBFT |
-| [**Aetralis**](https://github.com/Aetra-Network/Aetralis-Extension) | Smart-contract language compiling to the Aetra Virtual Machine | Language · Compiler · AVM |
-| [**Aetra SDK**](https://github.com/Aetra-Network/Aetra-SDK) | TypeScript SDK for accounts, transactions & contracts | TypeScript |
-| [**Aetra Kit**](https://github.com/Aetra-Network/Aetra-Kit) | viem/wagmi-style client library with React hooks | TypeScript · React |
-| [**Aetra Connect**](https://github.com/Aetra-Network/Aetra-Wallet-Connect) | Wallet ⇄ dApp connection protocol (+ React bindings) | TypeScript · React |
-| [**Dalen Wallet**](https://github.com/Aetra-Network/Dalen-Wallet) | Non-custodial wallet with encrypted vault & staking | Next.js · React · TS |
-| [**Explorer**](https://github.com/Aetra-Network/Explorer) | Block explorer + indexer | Next.js · React · TS |
-
----
-
-## 🎯 Current Focus
-
-```text
-⛓️  Hardening Aetra toward its first public testnet
-📜  Growing the Aetralis language and the AVM
-🧰  Polishing the SDK, Kit and wallet-connection protocol
-👛  Building out Dalen Wallet and the block explorer
-🤖  Pushing how far AI-assisted development can take a solo builder
-```
-
----
-
 ## 📫 Contact
-
-Open to talking about blockchain infrastructure, developer tooling, language design
-and AI-assisted development.
 
 - **GitHub:** [@SoftwareMaestro16](https://github.com/SoftwareMaestro16)
 - **Telegram:** [@SoftwareMaestro](https://t.me/SoftwareMaestro)
-
----
-
-<div align="center">
-
-### Building Aetra — from protocol to developer experience.
-
-</div>
