@@ -11,8 +11,8 @@ and a language for smart contracts. AI-assisted.
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-SoftwareMaestro16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoftwareMaestro16)
-[![Telegram](https://img.shields.io/badge/Telegram-@SoftwareMaestro-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SoftwareMaestro)
+[![GitHub](https://img.shields.io/badge/GitHub-SoftwareMaestro16-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/SoftwareMaestro16)
+[![Telegram](https://img.shields.io/badge/Telegram-%40SoftwareMaestro-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/SoftwareMaestro)
 
 </div>
 
@@ -64,7 +64,7 @@ writing smart contracts that run on the AVM.
 
 **Blockchain**
 
-![Cosmos SDK](https://img.shields.io/badge/Cosmos_SDK-2E3148?style=flat-square&logo=cosmos&logoColor=white)
+![Cosmos SDK](https://img.shields.io/badge/Cosmos_SDK-2E3148?logo=cosmos&logoColor=white&style=flat-square)
 ![CometBFT](https://img.shields.io/badge/CometBFT-1B1F3B?style=flat-square)
 ![Aetralis](https://img.shields.io/badge/Aetralis-Smart_Contracts-7C3AED?style=flat-square)
 ![AVM](https://img.shields.io/badge/AVM-Virtual_Machine-6D28D9?style=flat-square)
