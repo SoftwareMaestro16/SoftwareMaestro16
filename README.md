@@ -11,8 +11,6 @@
 
 ---
 
----
-
 ## About Me
 
 I build & test software end to end: blockchain tooling, smart contracts, language work, and full-stack applications.
