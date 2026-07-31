@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Daniil - 19 y.o. Blockchain and Full-Stack Developer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Software profile header">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#A78BFA">
@@ -39,10 +39,10 @@
       <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.2s" fill="freeze"/>
       <text x="600" y="98" text-anchor="middle"
             font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif"
-            font-size="58" font-weight="700" fill="#ffffff">Daniil</text>
+            font-size="58" font-weight="700" fill="#ffffff">Software Work</text>
       <text x="600" y="134" text-anchor="middle"
             font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif"
-            font-size="18" font-weight="400" fill="#ffffff" fill-opacity="0.92">19 y.o. Blockchain &amp; Full-Stack Developer</text>
+            font-size="18" font-weight="400" fill="#ffffff" fill-opacity="0.92">Blockchain, language, and full-stack development</text>
     </g>
   </g>
 </svg>
