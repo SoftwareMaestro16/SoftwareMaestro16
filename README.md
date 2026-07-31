@@ -14,39 +14,20 @@ and a language for smart contracts. AI-assisted.
 
 ---
 
-## 🧑‍💻 About Me
+---
 
-I'm 19. I build things end to end — web apps, smart contracts, and my own blockchain.
-Most of my work is **AI-assisted**: I use AI as a co-developer.
+## About Me
+
+I'm 19, build & test software end to end: blockchain tooling, smart contracts, language work, and full-stack applications.
 
 ---
 
-## ⛓️ What I'm Building
+## Focus Areas
 
-<table>
-<tr>
-<td width="88" align="center" valign="middle">
-<img src="assets/aetra.png" width="60" alt="Aetra" />
-</td>
-<td valign="middle">
-
-**[Aetra](https://github.com/Aetra-Network/Blockchain)** — a Proof-of-Stake blockchain
-with its own virtual machine, the **AVM**.
-
-</td>
-</tr>
-<tr>
-<td width="88" align="center" valign="middle">
-<img src="assets/aetralis.png" width="60" alt="Aetralis" />
-</td>
-<td valign="middle">
-
-**[Aetralis](https://github.com/Aetra-Network/Aetralis-Extension)** — a language for
-writing smart contracts that run on the AVM.
-
-</td>
-</tr>
-</table>
+- Blockchain protocol and runtime work
+- Language design and tooling
+- TON ecosystem projects
+- Full-stack product development
 
 ---
 
