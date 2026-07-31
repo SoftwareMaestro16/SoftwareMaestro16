@@ -2,9 +2,6 @@
 
 <div align="center">
 
-Building **Aetra** — a Proof-of-Stake blockchain with its own virtual machine
-and a language for smart contracts. AI-assisted.
-
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-SoftwareMaestro16-181717?style=for-the-badge)](https://github.com/SoftwareMaestro16)
@@ -18,7 +15,7 @@ and a language for smart contracts. AI-assisted.
 
 ## About Me
 
-I'm 19, build & test software end to end: blockchain tooling, smart contracts, language work, and full-stack applications.
+I build & test software end to end: blockchain tooling, smart contracts, language work, and full-stack applications.
 
 ---
 
